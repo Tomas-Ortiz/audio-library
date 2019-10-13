@@ -1,0 +1,167 @@
+
+form#InicioSesion {
+    margin: auto;
+    font-size: 20px;
+    padding: 40px;
+    color: #555555;
+    width: 380px;
+    border: outset 1px #555555;
+    border-radius: 10px;
+    background: white;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.9;
+}
+
+form#InicioSesion input {
+    font-size: 25px;
+    margin-top: -3px;
+    border: solid 1px;
+    border-radius: 3px;
+    width: 270px;
+    height: 40px;
+}
+
+#LblUsuario, #LblContraseña {
+    font-family: "Bell MT";
+    font-size: 23px;
+    letter-spacing: 2px;
+}
+
+::placeholder {
+    font-size: 17px;
+}
+
+form#InicioSesion button {
+
+    color: white;
+    height: 45px;
+    width: 270px;
+    text-align: center;
+    margin-top: -1px;
+    font-size: 25px;
+    padding-left: -5px;
+    border: outset 1px #555555;
+    border-radius: 5px;
+    background: royalblue;
+    font-family: "Bell MT";
+}
+
+.inputConIcono input {
+    padding-left: 50px;
+    margin-left: 10px;
+}
+
+.inputConIcono {
+    position: relative;
+}
+
+.inputConIcono i {
+    position: absolute;
+    left: 0px;
+    top: 8px;
+    padding: 1px 15px;
+    color: #aaaaaa;
+    transition: 3s;
+}
+
+.inputConIcono input:focus + i {
+    color: dodgerblue;
+}
+
+.botonConIcono {
+    position: relative;
+}
+
+.botonConIcono i {
+    position: absolute;
+    left: 200px;
+    top: 12px;
+    padding: 1px 15px;
+    color: white;
+}
+
+.tituloConIcono {
+    position: relative;
+}
+
+.tituloConIcono i {
+    position: absolute;
+    left: 95px;
+    top: -50px;
+    color: royalblue;
+}
+
+form #InicioSesion input,label, i,p{
+    margin-left: 10px;
+}
+
+.botonConIcono button{
+    margin-left: 10px;
+}
+
+#InicioSesion h1{
+    font-family: "Agency FB";
+    font-size: 45px;
+    padding-bottom: 10px;
+    color: black;
+    margin-left: 10px;
+    margin-bottom: -20px;
+}
+
+.Registro{
+    background: white;
+    margin-top: 59px;
+    opacity: 0.9;
+    text-align: center;
+    border: outset 1px #555555;
+    border-radius: 10px;
+    padding: 40px;
+
+}
+.Registro h1{
+    font-family: "Agency FB";
+    font-size: 45px;
+    color: black;
+}
+.Registro h3{
+    font-family: "Bell MT";
+    color: black;
+}
+.Registro hr{
+    border: 1px solid;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.Registro button{
+    color: white;
+    height: 45px;
+    width: 270px;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+    border: outset 1px #555555;
+    border-radius: 5px;
+    background: olivedrab;
+    font-family: "Bell MT";
+}
+
+.botonConIcono2 i{
+    position: absolute;
+    left: 287px;
+    top: 273px;
+    color: white;
+}
+
+.Recordar label{
+    position: absolute;
+    font-family: "fantasy";
+    font-size: 18px;
+    top: 405px;
+    color: #555555;
+}
+

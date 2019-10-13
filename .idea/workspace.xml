@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="641deaba-c762-48db-9cd1-0fdba76e3dcd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BibliotecaAudio/BibliotecaAudios.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1219">
+              <caret line="117" column="12" selection-start-line="117" selection-start-column="12" selection-end-line="117" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BibliotecaAudio/muestraAudio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255">
+              <caret line="42" column="61" lean-forward="true" selection-start-line="42" selection-start-column="61" selection-end-line="42" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BibliotecaAudio/OrdenarAudios.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1734">
+              <caret line="102" column="115" selection-start-line="102" selection-start-column="115" selection-end-line="102" selection-end-column="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setco</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\Audify 1</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PiePagina.php" />
+        <option value="$PROJECT_DIR$/verificacionLikeUsuario.php" />
+        <option value="$PROJECT_DIR$/MeGusta_NoMeGusta.php" />
+        <option value="$PROJECT_DIR$/Envio_MeGusta.php" />
+        <option value="$PROJECT_DIR$/css/estilos.css" />
+        <option value="$PROJECT_DIR$/AgregarComentario.php" />
+        <option value="$PROJECT_DIR$/ListaDeComentarios.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/compartirAudio/EstiloCompartirAudio.css" />
+        <option value="$PROJECT_DIR$/compartirAudio/EstiloComentario.css" />
+        <option value="$PROJECT_DIR$/Abm/validacionActualizacion.js" />
+        <option value="$PROJECT_DIR$/Abm/nuevoRegistro.php" />
+        <option value="$PROJECT_DIR$/Abm/eliminaRegistro.php" />
+        <option value="$PROJECT_DIR$/Sesion/validarSesion.php" />
+        <option value="$PROJECT_DIR$/Sesion/cerrarSesion.php" />
+        <option value="$PROJECT_DIR$/Registro/EstiloRegistro.css" />
+        <option value="$PROJECT_DIR$/Registro/Registro.html" />
+        <option value="$PROJECT_DIR$/Registro/ValidacionRegistro.php" />
+        <option value="$PROJECT_DIR$/PerfilUsuario/ActualizarPerfil.php" />
+        <option value="$PROJECT_DIR$/PerfilUsuario/ValidacionActualizarPerfil.js" />
+        <option value="$PROJECT_DIR$/inicioSesion/InicioSesion.php" />
+        <option value="$PROJECT_DIR$/inicioSesion/ValidacionInicioSesion.js" />
+        <option value="$PROJECT_DIR$/compartirAudio/AgregarComentario.php" />
+        <option value="$PROJECT_DIR$/compartirAudio/ListaDeComentarios.php" />
+        <option value="$PROJECT_DIR$/compartirAudio/SubePublicacion.php" />
+        <option value="$PROJECT_DIR$/compartirAudio/Envio_MeGusta.php" />
+        <option value="$PROJECT_DIR$/compartirAudio/MeGusta_NoMeGusta.php" />
+        <option value="$PROJECT_DIR$/compartirAudio/validarEntradaPublicacion.js" />
+        <option value="$PROJECT_DIR$/compartirAudio/incluyeAudioBiblioteca.php" />
+        <option value="$PROJECT_DIR$/BibliotecaAudio/OrdenamientoAudios.js" />
+        <option value="$PROJECT_DIR$/Inicio/Inicio.php" />
+        <option value="$PROJECT_DIR$/BibliotecaAudio/EliminaAudio.php" />
+        <option value="$PROJECT_DIR$/BibliotecaAudio/informacionAudio.php" />
+        <option value="$PROJECT_DIR$/conexion.php" />
+        <option value="$PROJECT_DIR$/ValidarRol.php" />
+        <option value="$PROJECT_DIR$/cabecera.php" />
+        <option value="$PROJECT_DIR$/SubirAudio/SubirAudio.php" />
+        <option value="$PROJECT_DIR$/SubirAudio/ValidacionSubida.php" />
+        <option value="$PROJECT_DIR$/Registro/ValidacionRegistro.js" />
+        <option value="$PROJECT_DIR$/inicioSesion/ValidacionInicioSesion.php" />
+        <option value="$PROJECT_DIR$/Abm/abmUsuarios.php" />
+        <option value="$PROJECT_DIR$/Abm/modificacionRegistro.php" />
+        <option value="$PROJECT_DIR$/Abm/actualizacionRegistro.php" />
+        <option value="$PROJECT_DIR$/BibliotecaAudio/BibliotecaAudios.php" />
+        <option value="$PROJECT_DIR$/BibliotecaAudio/ConsultaBusqueda.js" />
+        <option value="$PROJECT_DIR$/BibliotecaAudio/informacionAudio.js" />
+        <option value="$PROJECT_DIR$/compartirAudio/comparteAudio.php" />
+        <option value="$PROJECT_DIR$/BibliotecaAudio/OrdenarAudios.php" />
+        <option value="$PROJECT_DIR$/BibliotecaAudio/muestraAudio.php" />
+        <option value="$PROJECT_DIR$/BibliotecaAudio/confirmacionMensaje.js" />
+        <option value="$PROJECT_DIR$/PerfilUsuario/PerfilUsuario.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="348" />
+    <option name="width" value="971" />
+    <option name="height" value="478" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Audify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Audify" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Audify" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Audify" type="462c0819:PsiDirectoryNode" />
+              <item name="BibliotecaAudio" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last.edited.regexp" value="tomi&quot;das" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Audify\compartirAudio" />
+      <recent name="C:\xampp\htdocs\Audify 1\compartirAudio" />
+      <recent name="C:\xampp\htdocs\Audify 1\Sesion" />
+      <recent name="C:\xampp\htdocs\Audify 1\BibliotecaAudio" />
+      <recent name="C:\xampp\htdocs\Audify 1\SubirAudio" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Inicio.html">
+    <configuration name="InicioSesion.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Audify/InicioSesion.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Inicio.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MiPagina/Inicio.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Inicio.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Audify 1/Inicio/Inicio.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Registro.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Audify 1/Registro/Registro.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Registro.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Audify/Registro.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Inicio.html" />
+        <item itemvalue="JavaScript Debug.Inicio.php" />
+        <item itemvalue="JavaScript Debug.Registro.html (1)" />
+        <item itemvalue="JavaScript Debug.Registro.html" />
+        <item itemvalue="JavaScript Debug.InicioSesion.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="641deaba-c762-48db-9cd1-0fdba76e3dcd" name="Default Changelist" comment="" />
+      <created>1553404362412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553404362412</updated>
+      <workItem from="1553404383821" duration="1722000" />
+      <workItem from="1553406352759" duration="211000" />
+      <workItem from="1553406637347" duration="2334000" />
+      <workItem from="1553455440166" duration="454000" />
+      <workItem from="1553463401194" duration="11311000" />
+      <workItem from="1553655858152" duration="465000" />
+      <workItem from="1553921780782" duration="327000" />
+      <workItem from="1553922199199" duration="13369000" />
+      <workItem from="1554063657837" duration="21679000" />
+      <workItem from="1554383463120" duration="9492000" />
+      <workItem from="1554435837202" duration="80000" />
+      <workItem from="1554528267020" duration="9363000" />
+      <workItem from="1554582353614" duration="20856000" />
+      <workItem from="1554828912472" duration="560000" />
+      <workItem from="1554869611405" duration="2798000" />
+      <workItem from="1554902574085" duration="3225000" />
+      <workItem from="1555011415871" duration="231000" />
+      <workItem from="1555012366713" duration="10512000" />
+      <workItem from="1555043546931" duration="9687000" />
+      <workItem from="1555795259917" duration="27170000" />
+      <workItem from="1555883366578" duration="13821000" />
+      <workItem from="1555988962160" duration="5191000" />
+      <workItem from="1556046518064" duration="5980000" />
+      <workItem from="1556220336383" duration="10118000" />
+      <workItem from="1556231823177" duration="6000" />
+      <workItem from="1556244652391" duration="2974000" />
+      <workItem from="1556283218140" duration="9017000" />
+      <workItem from="1556334069609" duration="17132000" />
+      <workItem from="1556798075046" duration="17068000" />
+      <workItem from="1556822570392" duration="12362000" />
+      <workItem from="1556842600449" duration="5865000" />
+      <workItem from="1556856967687" duration="300000" />
+      <workItem from="1556892340221" duration="4706000" />
+      <workItem from="1556897287804" duration="2002000" />
+      <workItem from="1556903577559" duration="67000" />
+      <workItem from="1556945218230" duration="1113000" />
+      <workItem from="1556947106938" duration="12413000" />
+      <workItem from="1557006311333" duration="13720000" />
+      <workItem from="1557084408453" duration="3609000" />
+      <workItem from="1557098845466" duration="20877000" />
+      <workItem from="1557169951771" duration="9465000" />
+      <workItem from="1557213461411" duration="1782000" />
+      <workItem from="1557273508775" duration="21099000" />
+      <workItem from="1557340869972" duration="9394000" />
+      <workItem from="1557416362765" duration="31782000" />
+      <workItem from="1557535896770" duration="19365000" />
+      <workItem from="1557630088390" duration="10156000" />
+      <workItem from="1557851625566" duration="1420000" />
+      <workItem from="1557884519026" duration="4604000" />
+      <workItem from="1558034536320" duration="21963000" />
+      <workItem from="1558094074929" duration="14205000" />
+      <workItem from="1558218909704" duration="6797000" />
+      <workItem from="1558293974323" duration="1045000" />
+      <workItem from="1558639481988" duration="9806000" />
+      <workItem from="1558656502792" duration="13724000" />
+      <workItem from="1558712203358" duration="598000" />
+      <workItem from="1558966728736" duration="6514000" />
+      <workItem from="1559220600067" duration="7131000" />
+      <workItem from="1559263343595" duration="9080000" />
+      <workItem from="1559305188230" duration="10227000" />
+      <workItem from="1559354440763" duration="11216000" />
+      <workItem from="1559366832011" duration="639000" />
+      <workItem from="1559700917081" duration="3961000" />
+      <workItem from="1559841226532" duration="589000" />
+      <workItem from="1559853375026" duration="3654000" />
+      <workItem from="1559875619667" duration="1069000" />
+      <workItem from="1560398007083" duration="866000" />
+      <workItem from="1561061251061" duration="4047000" />
+      <workItem from="1561162823916" duration="9883000" />
+      <workItem from="1561229812475" duration="24156000" />
+      <workItem from="1561317692698" duration="26214000" />
+      <workItem from="1561404587671" duration="5925000" />
+      <workItem from="1561426139322" duration="20493000" />
+      <workItem from="1561485866453" duration="924000" />
+      <workItem from="1561513415056" duration="10930000" />
+      <workItem from="1561580439676" duration="11000" />
+      <workItem from="1561580963980" duration="2113000" />
+      <workItem from="1561585613224" duration="16361000" />
+      <workItem from="1561657730282" duration="1218000" />
+      <workItem from="1561697092532" duration="6129000" />
+      <workItem from="1561751031423" duration="18694000" />
+      <workItem from="1561945011602" duration="1152000" />
+      <workItem from="1562160188416" duration="18065000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="702653000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.23708206" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.27583587" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4987715" weight="0.09165303" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5012285" side_tool="true" weight="0.16830066" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.21428572" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.27583587" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4987715" weight="0.09328969" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5012285" side_tool="true" weight="0.16863905" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/NoMeGusta.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verificacionLikeUsuario.php" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/compartirAudio/EstiloCompartirAudio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion/cerrarSesion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PerfilUsuario/EstiloPerfilUsuario.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compartirAudio/SubePublicacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="51" column="57" selection-start-line="51" selection-start-column="57" selection-end-line="51" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compartirAudio/validarEntradaPublicacion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compartirAudio/EstiloComentario.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PiePagina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ValidarRol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabecera.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="93" column="9" lean-forward="true" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion/validarSesion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SubirAudio/SubirAudio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SubirAudio/ValidacionSubida.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Registro/EstiloRegistro.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Registro/Registro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1498">
+          <caret line="101" column="43" lean-forward="true" selection-start-line="101" selection-start-column="43" selection-end-line="101" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#1;n#span#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#form#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#9;n#form#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inicioSesion/ValidacionInicioSesion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inicioSesion/ValidacionInicioSesion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inicioSesion/InicioSesion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inicio/Inicio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="56" selection-start-line="85" selection-start-column="56" selection-end-line="85" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inicio/EstiloInicio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abm/modificacionRegistro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abm/nuevoRegistro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abm/actualizacionRegistro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BibliotecaAudio/EstiloBiblioteca.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-831" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BibliotecaAudio/informacionAudio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BibliotecaAudio/informacionAudio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BibliotecaAudio/EliminaAudio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BibliotecaAudio/OrdenamientoAudios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PerfilUsuario/ActualizarPerfil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BibliotecaAudio/ConsultaBusqueda.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compartirAudio/AgregarComentario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compartirAudio/Envio_MeGusta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compartirAudio/MeGusta_NoMeGusta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compartirAudio/ListaDeComentarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="104" selection-start-line="28" selection-start-column="104" selection-end-line="28" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/MeGusta.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compartirAudio/incluyeAudioBiblioteca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compartirAudio/comparteAudio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="448" column="56" selection-start-line="448" selection-start-column="56" selection-end-line="448" selection-end-column="56" />
+          <folding>
+            <element signature="e#9257#9811#0#HTML" />
+            <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="e#29865#30758#0#HTML" />
+            <element signature="e#31076#33545#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abm/validacionActualizacion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BibliotecaAudio/confirmacionMensaje.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abm/abmUsuarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="95" column="177" lean-forward="true" selection-start-line="95" selection-start-column="177" selection-end-line="95" selection-end-column="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abm/eliminaRegistro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Registro/ValidacionRegistro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Registro/ValidacionRegistro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="50" column="8" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PerfilUsuario/ValidacionActualizarPerfil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PerfilUsuario/PerfilUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="50" column="68" selection-start-line="50" selection-start-column="68" selection-end-line="50" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BibliotecaAudio/BibliotecaAudios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1219">
+          <caret line="117" column="12" selection-start-line="117" selection-start-column="12" selection-end-line="117" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BibliotecaAudio/muestraAudio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="42" column="61" lean-forward="true" selection-start-line="42" selection-start-column="61" selection-end-line="42" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BibliotecaAudio/OrdenarAudios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="115" selection-start-line="102" selection-start-column="115" selection-end-line="102" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

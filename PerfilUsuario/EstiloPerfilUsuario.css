@@ -1,0 +1,35 @@
+
+.ColumnaCentro h1 {
+    color: #333333;
+}
+
+#NavPerfil {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #515151;
+}
+
+#NavPerfil a {
+    color: white;
+    text-decoration: none;
+}
+
+#NavPerfil a:hover {
+    color: dodgerblue;
+}
+
+#NavPerfil ul {
+    text-align: center;
+}
+
+#NavPerfil ul li {
+    display: inline;
+}
+
+section {
+    padding-bottom: 100px;
+}
+
+#EditarPerfil {
+    display: none;
+}
